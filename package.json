@@ -1,0 +1,27 @@
+{
+  "name": "harish",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish6614/w05.git"
+  },
+  "keywords": [
+    "w05"
+  ],
+  "author": "Harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish6614/w05/issues"
+  },
+  "homepage": "https://github.com/harish6614/w05#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "cool-ascii-faces": "^1.3.4",
+    "eslint": "^4.7.2"
+  }
+}
